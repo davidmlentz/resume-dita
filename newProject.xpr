@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="19.1">
+    <meta>
+        <filters directoryPatterns="" filePatterns="newProject.xpr" positiveFilePatterns="" showHiddenFiles="false"/>
+        <options/>
+    </meta>
+    <projectTree name="newProject.xpr">
+        <folder path="."/>
+        <file name="education.dita"/>
+        <file name="graduate_education1.dita"/>
+        <file name="undergraduate_education.dita"/>
+    </projectTree>
+</project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>education</title>
+    <topicref href="education_0.dita">
+        <topicref href="undergraduate.dita">
+            <topicref href="boise_state_university.dita"/>
+        </topicref>
+        <topicref href="graduate.dita">
+            <topicref href="georgetown_university.dita"/>
+            <topicref href="boise_state_university_0.dita"/>
+        </topicref>
+    </topicref>
+</map>
